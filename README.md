@@ -1,6 +1,7 @@
 # rocletCHEERS
 
-[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+![Work In Progress](https://img.shields.io/badge/Status-Work%20In%20Progress-red)
+> This package is currently a prototype. Contributions and integration with wider HTA standards are welcome.
 
 Automatically create a report using the CHEERS [checklist](https://www.ispor.org/heor-resources/good-practices/cheers) from R code using `roxygen2`.
 
